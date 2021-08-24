@@ -69,7 +69,7 @@ public class principal extends JFrame {
 		// Painel do "Caixa"
 		pCaixa = new JPanel(null);
 		pCaixa.setBounds(0, 0, 900, 800);
-		pCaixa.setBackground(new Color(78, 119, 161));
+		pCaixa.setBackground(new Color(255, 255, 255));
 		add(pCaixa);
 
 		// Painel do Titulo
